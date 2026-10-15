@@ -6,7 +6,7 @@ An interactive three-page Power BI report analysing Uber trip data (June 2024) t
 
 ## Dashboard Preview
 
-![Uber Trip Analysis Dashboard](screenshots/overview.png)
+![Uber Trip Analysis Dashboard](Images/Overview.jpeg)
 
 ## Business Requirement
 
