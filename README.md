@@ -98,8 +98,10 @@ uber-trip-analysis-powerbi/
 ├── data/
 │   ├── Uber_Trip_Details.xlsx
 │   └── Location_Table.xlsx
-└── screenshots/
-    └── overview.png
+└── Images/
+    └── Overview.jpeg
+    └── Details.jpeg
+    └── Time.jpeg
 ```
 
 ## How to Use
