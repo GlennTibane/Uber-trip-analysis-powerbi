@@ -95,9 +95,8 @@ uber-trip-analysis-powerbi/
 ├── README.md
 ├── Uber_Trip_Analysis.pbix
 ├── Problem_Statement.docx
-├── data/
-│   ├── Uber_Trip_Details.xlsx
-│   └── Location_Table.xlsx
+├── Uber_Trip_Details.xlsx
+└── Location_Table.xlsx
 └── Images/
     └── Overview.jpeg
     └── Details.jpeg
